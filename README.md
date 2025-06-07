@@ -59,4 +59,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veepthy-suresh-453126202/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:veepthysuresh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://github.com/VEEPTHY-SURESH/veepthyporfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://veepthy-suresh.github.io/veepthyporfolio/)
