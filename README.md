@@ -50,8 +50,8 @@
 
 ### 📚 Coding Profiles
 
--[LeetCode](https://leetcode.com/u/veepthy_/)
--[Kaggle](https://www.kaggle.com/acevspgaming)
+- [LeetCode](https://leetcode.com/u/veepthy_/)
+- [Kaggle](https://www.kaggle.com/acevspgaming)
 
 ---
 
