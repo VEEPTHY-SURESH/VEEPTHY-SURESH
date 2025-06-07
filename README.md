@@ -34,16 +34,17 @@
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+**Machine Learning**  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VeepthySuresh&show_icons=true&theme=radical" alt="Veepthy's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeepthySuresh&theme=radical" alt="Veepthy's GitHub Streak" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VeepthySuresh&show_icons=true&theme=radical" alt="GitHub Stats" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeepthySuresh&theme=radical" alt="GitHub Streak" /> </p>
 
 ---
 
